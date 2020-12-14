@@ -146,18 +146,13 @@ add_action('admin_bar_menu', 'coop_remove_bar_menu_page_edit', 999);
 
 function coop_remove_bar_menu_page_edit($wp_admin_bar)
 {
-    global $post;
     $curr_role = coop_get_user_role();
     $custom_roles = ['subeditor', 'educa_museu_editor'];
-    $post_id = $post->ID;
-    $pode_editar = get_post_meta($post_id, $curr_role, true);
     if (in_array($curr_role, $custom_roles)) {
         $wp_admin_bar->remove_node('new-content');
-        if (!$pode_editar && empty($pode_editar))
-            $wp_admin_bar->remove_node('edit');
+        $wp_admin_bar->remove_node('edit');
     }
 }
-// page-title-action
 
 add_action('admin_head', 'coop_menus_edit_style');
 
