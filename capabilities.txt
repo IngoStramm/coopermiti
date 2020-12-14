@@ -1,0 +1,313 @@
+array(19) {
+  [2]=>
+  array(7) {
+    [0]=>
+    string(25) "Dashboard Converte Fácil"
+    [1]=>
+    string(4) "read"
+    [2]=>
+    string(9) "index.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(43) "menu-top menu-top-first menu-icon-dashboard"
+    [5]=>
+    string(14) "menu-dashboard"
+    [6]=>
+    string(19) "dashicons-dashboard"
+  }
+  [4]=>
+  array(5) {
+    [0]=>
+    string(0) ""
+    [1]=>
+    string(4) "read"
+    [2]=>
+    string(10) "separator1"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(17) "wp-menu-separator"
+  }
+  [10]=>
+  array(7) {
+    [0]=>
+    string(22) "Biblioteca de Arquivos"
+    [1]=>
+    string(12) "upload_files"
+    [2]=>
+    string(10) "upload.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(24) "menu-top menu-icon-media"
+    [5]=>
+    string(10) "menu-media"
+    [6]=>
+    string(21) "dashicons-admin-media"
+  }
+  [15]=>
+  array(7) {
+    [0]=>
+    string(5) "Links"
+    [1]=>
+    string(12) "manage_links"
+    [2]=>
+    string(36) "edit-tags.php?taxonomy=link_category"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(24) "menu-top menu-icon-links"
+    [5]=>
+    string(10) "menu-links"
+    [6]=>
+    string(21) "dashicons-admin-links"
+  }
+  [25]=>
+  array(7) {
+    [0]=>
+    string(20) "Moderar Comentários"
+    [1]=>
+    string(10) "edit_posts"
+    [2]=>
+    string(17) "edit-comments.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(27) "menu-top menu-icon-comments"
+    [5]=>
+    string(13) "menu-comments"
+    [6]=>
+    string(24) "dashicons-admin-comments"
+  }
+  [5]=>
+  array(7) {
+    [0]=>
+    string(27) "Conteúdo e SEO Inteligente"
+    [1]=>
+    string(10) "edit_posts"
+    [2]=>
+    string(8) "edit.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(37) "menu-top menu-icon-post open-if-no-js"
+    [5]=>
+    string(10) "menu-posts"
+    [6]=>
+    string(20) "dashicons-admin-post"
+  }
+  [20]=>
+  array(7) {
+    [0]=>
+    string(32) "Páginas do Site e Landing Pages"
+    [1]=>
+    string(10) "edit_pages"
+    [2]=>
+    string(23) "edit.php?post_type=page"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(23) "menu-top menu-icon-page"
+    [5]=>
+    string(10) "menu-pages"
+    [6]=>
+    string(20) "dashicons-admin-page"
+  }
+  [6]=>
+  array(7) {
+    [0]=>
+    string(6) "Museus"
+    [1]=>
+    string(10) "edit_posts"
+    [2]=>
+    string(24) "edit.php?post_type=museu"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(24) "menu-top menu-icon-museu"
+    [5]=>
+    string(16) "menu-posts-museu"
+    [6]=>
+    string(27) "dashicons-welcome-view-site"
+  }
+  [7]=>
+  array(7) {
+    [0]=>
+    string(11) "Educações"
+    [1]=>
+    string(10) "edit_posts"
+    [2]=>
+    string(27) "edit.php?post_type=educacao"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(27) "menu-top menu-icon-educacao"
+    [5]=>
+    string(19) "menu-posts-educacao"
+    [6]=>
+    string(28) "dashicons-welcome-learn-more"
+  }
+  [26]=>
+  array(7) {
+    [0]=>
+    string(13) "Informações"
+    [1]=>
+    string(10) "edit_posts"
+    [2]=>
+    string(29) "edit.php?post_type=informacao"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(29) "menu-top menu-icon-informacao"
+    [5]=>
+    string(21) "menu-posts-informacao"
+    [6]=>
+    string(14) "dashicons-info"
+  }
+  [59]=>
+  array(5) {
+    [0]=>
+    string(0) ""
+    [1]=>
+    string(4) "read"
+    [2]=>
+    string(10) "separator2"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(17) "wp-menu-separator"
+  }
+  [65]=>
+  array(7) {
+    [0]=>
+    string(8) "Plugins "
+    [1]=>
+    string(16) "activate_plugins"
+    [2]=>
+    string(11) "plugins.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(26) "menu-top menu-icon-plugins"
+    [5]=>
+    string(12) "menu-plugins"
+    [6]=>
+    string(23) "dashicons-admin-plugins"
+  }
+  [70]=>
+  array(7) {
+    [0]=>
+    string(6) "Perfil"
+    [1]=>
+    string(4) "read"
+    [2]=>
+    string(11) "profile.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(24) "menu-top menu-icon-users"
+    [5]=>
+    string(10) "menu-users"
+    [6]=>
+    string(21) "dashicons-admin-users"
+  }
+  [80]=>
+  array(7) {
+    [0]=>
+    string(15) "Configurações"
+    [1]=>
+    string(14) "manage_options"
+    [2]=>
+    string(19) "options-general.php"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(27) "menu-top menu-icon-settings"
+    [5]=>
+    string(13) "menu-settings"
+    [6]=>
+    string(24) "dashicons-admin-settings"
+  }
+  [99]=>
+  array(5) {
+    [0]=>
+    string(0) ""
+    [1]=>
+    string(4) "read"
+    [2]=>
+    string(14) "separator-last"
+    [3]=>
+    string(0) ""
+    [4]=>
+    string(17) "wp-menu-separator"
+  }
+  ["80.025"]=>
+  array(7) {
+    [0]=>
+    string(21) "Campos Personalizados"
+    [1]=>
+    string(14) "manage_options"
+    [2]=>
+    string(34) "edit.php?post_type=acf-field-group"
+    [3]=>
+    string(21) "Campos Personalizados"
+    [4]=>
+    string(53) "menu-top toplevel_page_edit?post_type=acf-field-group"
+    [5]=>
+    string(44) "toplevel_page_edit?post_type=acf-field-group"
+    [6]=>
+    string(31) "dashicons-welcome-widgets-menus"
+  }
+  [100]=>
+  array(7) {
+    [0]=>
+    string(6) "CPT UI"
+    [1]=>
+    string(14) "manage_options"
+    [2]=>
+    string(15) "cptui_main_menu"
+    [3]=>
+    string(28) "Tipos de post personalizados"
+    [4]=>
+    string(38) "menu-top toplevel_page_cptui_main_menu"
+    [5]=>
+    string(29) "toplevel_page_cptui_main_menu"
+    [6]=>
+    string(15) "dashicons-forms"
+  }
+  ["60.66688"]=>
+  array(7) {
+    [0]=>
+    string(7) " Menus "
+    [1]=>
+    string(18) "edit_theme_options"
+    [2]=>
+    string(13) "nav-menus.php"
+    [3]=>
+    string(12) "Editar Menus"
+    [4]=>
+    string(32) "menu-top toplevel_page_nav-menus"
+    [5]=>
+    string(23) "toplevel_page_nav-menus"
+    [6]=>
+    string(14) "dashicons-menu"
+  }
+  [101]=>
+  array(7) {
+    [0]=>
+    string(9) "Usuários"
+    [1]=>
+    string(18) "edit_theme_options"
+    [2]=>
+    string(9) "new-users"
+    [3]=>
+    string(9) "Usuários"
+    [4]=>
+    string(32) "menu-top toplevel_page_new-users"
+    [5]=>
+    string(23) "toplevel_page_new-users"
+    [6]=>
+    string(16) "dashicons-groups"
+  }
+}

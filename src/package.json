@@ -1,0 +1,30 @@
+{
+    "name": "coopermiti",
+    "description": "Descrição do Coopermiti.",
+    "version": "0.0.1",
+    "title": "Coopermiti",
+    "homepage": "https://agencialaf.com",
+    "main": "Gruntfile.js",
+    "devDependencies": {
+        "glob-watcher": "~3.0.0",
+        "grunt": "^1.3.0",
+        "grunt-contrib-imagemin": "~1.0.0",
+        "grunt-contrib-jshint": "~1.0.0",
+        "grunt-contrib-sass": "~1.0.0",
+        "grunt-contrib-uglify": "~2.0.0",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-text-replace": "~0.4.0",
+        "grunt-zip": "~0.17.1",
+        "load-grunt-tasks": "~3.5.2",
+        "minimist": "~1.2.0",
+        "readable-stream": "~2.1.5"
+    },
+    "engines": {
+        "node": ">=0.10.1",
+        "npm": ">=6.14.8"
+    },
+    "dependencies": {
+        "grunt-sass": "^3.1.0",
+        "node-sass": "^5.0.0"
+    }
+}
